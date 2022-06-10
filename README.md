@@ -1,6 +1,8 @@
 # CLIP-Actor
+## [Paper](https://arxiv.org/abs/2206.04382)
+This repository contains a pytorch implementation for the paper: [CLIP-Actor: Text-Driven Recommendation and Stylization for Animating Human Meshes](https://arxiv.org/abs/2206.04382). CLIP-Actor is a novel text-driven **motion recommendation** and **neural mesh stylization** system for human mesh animation.<br><br>
 
-CLIP-Actor is a text-driven motion recommendation and neural mesh stylization system for human mesh animation.
+
 
 Code will be released soon ... 
 
