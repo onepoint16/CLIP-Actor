@@ -4,5 +4,5 @@ CLIP-Actor is a text-driven motion recommendation and neural mesh stylization sy
 
 Code will be released soon ... 
 
-https://user-images.githubusercontent.com/55628873/173111095-8722d914-860c-49d2-91a7-2f6ef6a224a5.mp4"/
+https://user-images.githubusercontent.com/55628873/173112861-93e07ac6-5303-44db-940c-68b75a947085.mp4
 
